@@ -1,4 +1,4 @@
-# Mini Text Editor **with text to speech feature**
+# Mini Text Editor ** with text to speech feature **
 ## Develop an application that implements a mini Text Editor. 
 ### The application have the following functions:
  - Add line: takes text input from user and it will be added to the end of the file.

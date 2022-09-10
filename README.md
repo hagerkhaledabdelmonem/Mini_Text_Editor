@@ -1,5 +1,5 @@
-# Mini Text Editor *with text to speech feature*
-## Develop an application that implements a mini Text Editor. 
+# Mini Text Editor 
+## Develop an application that implements a mini Text Editor with text to speech feature by using espeak. 
 ### The application have the following functions:
  - Add line: takes text input from user and it will be added to the end of the file.
  - Insert line: takes line number & text input from user and it will be added to specific line.

@@ -2,7 +2,7 @@
 ## Develop an application that implements a mini Text Editor. 
 ### The application have the following functions:
  - Add line: takes text input from user and it will be added to the end of the file
- - Insert line: takes line number & text input from user and it will be added to specific line.
+ - Insert line: takes line number & text input from user and it will be added to specific line & complexity is less than θ(N), where N is number of lines.
  - Get line text: takes line number and return line text
  - Delete line: takes line number.
  - Update line: takes line number & text input from user and it will be updated with specific old line.

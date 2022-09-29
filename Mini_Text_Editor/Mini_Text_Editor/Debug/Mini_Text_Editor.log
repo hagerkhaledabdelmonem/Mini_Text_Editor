@@ -1,0 +1,14 @@
+﻿  miniTextEditor.cpp
+D:\visual studio hager\Mini_Text_Editor\Mini_Text_Editor\miniTextEditor.cpp(209,21): warning C4018: '<': signed/unsigned mismatch
+D:\visual studio hager\Mini_Text_Editor\Mini_Text_Editor\miniTextEditor.cpp(541,32): warning C4018: '<=': signed/unsigned mismatch
+D:\visual studio hager\Mini_Text_Editor\Mini_Text_Editor\miniTextEditor.cpp(695,22): warning C4018: '<=': signed/unsigned mismatch
+  Mini_Text_Editor.cpp
+D:\visual studio hager\Mini_Text_Editor\Mini_Text_Editor\Mini_Text_Editor.cpp(99,20): warning C4018: '<': signed/unsigned mismatch
+D:\visual studio hager\Mini_Text_Editor\Mini_Text_Editor\Mini_Text_Editor.cpp(154,22): warning C4018: '<': signed/unsigned mismatch
+D:\visual studio hager\Mini_Text_Editor\Mini_Text_Editor\Mini_Text_Editor.cpp(197,22): warning C4018: '<': signed/unsigned mismatch
+D:\visual studio hager\Mini_Text_Editor\Mini_Text_Editor\Mini_Text_Editor.cpp(229,23): warning C4018: '<': signed/unsigned mismatch
+D:\visual studio hager\Mini_Text_Editor\Mini_Text_Editor\Mini_Text_Editor.cpp(247,23): warning C4018: '<': signed/unsigned mismatch
+D:\visual studio hager\Mini_Text_Editor\Mini_Text_Editor\Mini_Text_Editor.cpp(288,22): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+D:\visual studio hager\Mini_Text_Editor\Mini_Text_Editor\miniTextEditor.cpp(423): warning C4715: 'miniTextEditor::GetLine': not all control paths return a value
+  Mini_Text_Editor.vcxproj -> D:\visual studio hager\Mini_Text_Editor\Debug\Mini_Text_Editor.exe

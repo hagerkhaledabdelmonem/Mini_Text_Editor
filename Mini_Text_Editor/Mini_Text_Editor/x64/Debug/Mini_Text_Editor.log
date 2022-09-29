@@ -1,0 +1,7 @@
+﻿  miniTextEditor.cpp
+D:\visual studio hager\Mini_Text_Editor\Mini_Text_Editor\miniTextEditor.cpp(297,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\visual studio hager\Mini_Text_Editor\Mini_Text_Editor\miniTextEditor.cpp(305,61): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Mini_Text_Editor.cpp
+  Generating Code...
+D:\visual studio hager\Mini_Text_Editor\Mini_Text_Editor\miniTextEditor.cpp(423): warning C4715: 'miniTextEditor::GetLine': not all control paths return a value
+  Mini_Text_Editor.vcxproj -> D:\visual studio hager\Mini_Text_Editor\x64\Debug\Mini_Text_Editor.exe
